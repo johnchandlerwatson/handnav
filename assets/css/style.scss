@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 .post {
-  margin: 20px; 
+  margin: 20px;
   padding: 20px;
-  background: grey;
-  border-radius: 4px;
+  background-image: linear-gradient(#4f4971, #4c447b);
+  border-radius: 6px;
 }
 
 body, html {
